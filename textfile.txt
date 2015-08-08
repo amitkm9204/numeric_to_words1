@@ -1,0 +1,2 @@
+this is used to convert the number to words..e.g
+12345 is twelve thousand three hundred forty five
